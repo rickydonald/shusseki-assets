@@ -1,0 +1,1 @@
+# rdmw-global-assets
