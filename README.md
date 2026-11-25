@@ -1,1 +1,1 @@
-# rdmw-global-assets
+# shusseki-assets
